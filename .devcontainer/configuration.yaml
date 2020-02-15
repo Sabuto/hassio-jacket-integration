@@ -1,0 +1,13 @@
+default_config:
+logger:
+  default: error
+  logs:
+    custom_components.jackett: debug
+
+
+jackett:
+  host: 192.168.5.164
+  port: 9117
+  api_key: m5u6bqlbhw5suapotv2tizz59kvsf7ls
+  sensor:
+    - enabled: true

@@ -1,0 +1,10 @@
+{
+    "domain": "jackett",
+    "name": "Jackett integration",
+    "documentation": "https://github.com/sabuto/hassio-jackett-integration",
+    "dependencies": [],
+    "codeowners": [
+        "Robert Dunne"
+    ],
+    "requirements": []
+}
